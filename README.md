@@ -1,5 +1,7 @@
 # 🔍👀 Phind Semantic Search
 
+**Status**: Production-ready Laravel package for AI-powered search - delivering advanced semantic understanding and hybrid search capabilities.
+
 A powerful semantic search package for Laravel applications that combines traditional keyword search with AI-powered vector similarity for better search results and user experience.
 
 ## Features
